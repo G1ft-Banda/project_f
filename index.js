@@ -1,4 +1,4 @@
-javascript;
+
 // Import the required modules
 const axios = require('axios');
 const cheerio = require('cheerio');
